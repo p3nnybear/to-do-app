@@ -1,0 +1,17 @@
+body {
+    background-color: #F4CBC6;
+    text-align: center;
+    font-size: 16px;
+    color: #E07A5F;
+    font-family: "roboto", "SF", sans-serif;
+  }
+#addToDoForm {
+    color: #8B9474;
+}
+
+#toDoList {
+    color: #8B9474;
+    padding-left: 600px;
+    width: 10%;
+    text-align: left;
+}
